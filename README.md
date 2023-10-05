@@ -1,4 +1,7 @@
-<center><h1>Django Dockerize With Postgresql</h1></center>
+<center>
+  <h1>Django Dockerize With Postgresql</h1>
+  <p>This repo is for learning and teaching purpose</p>
+</center>
 <hr>
 <h5>Prerequisite</h5>
 <br>
